@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoListViewWithClass</string>
+    <string name="exit">Exit</string>
+    <string name="save">Save</string>
+    <string name="point">Point</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="student_information">Student Information</string>
+    <string name="student_management">Student Management</string>
+    <string name="add">ADD</string>
+</resources>
